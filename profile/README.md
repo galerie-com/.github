@@ -93,8 +93,12 @@ Galerie is built on the **Sui blockchain** — a high-performance, object-centri
 </p>
 
 <p align="center">
-  <img src="../assets/sui.png" alt="Sui" height="44" style="vertical-align:middle; margin-right:60px;" />
-  <img src="../assets/enoki.png" alt="Enoki" height="80" style="vertical-align:middle;" />
+  <span style="display:inline-block; margin-right:60px;">
+    <img src="../assets/sui.png" alt="Sui" height="44" style="vertical-align:middle;" />
+  </span>
+  <span style="display:inline-block; margin-left:60px;">
+    <img src="../assets/enoki.png" alt="Enoki" height="80" style="vertical-align:middle;" />
+  </span>
 </p>
 
 ---
