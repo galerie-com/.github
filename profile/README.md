@@ -2,9 +2,7 @@
 
 > **Own a piece of art. Start at $10. Full Account Abstraction. No fees. Welcome to the future of art investing on [Sui](https://sui.io/).**
 
-📄 [View the pitch deck (PDF)](https://galerie-com.github.io/pitch-deck/)
-
-🎥 [Demo Video](https://www.youtube.com/DEMOVIDEO)
+🎥 [Demo Video](https://youtu.be/uLm5ZdhB2Rw)
 
 [➡️ Visit Galerie](https://galerie-com.vercel.app/)
 
@@ -56,7 +54,7 @@
   <p><strong>None.</strong> Galerie <strong>sponsors every transaction through Enoki</strong> with full <strong>Account Abstraction</strong> — you never pay transaction fees.</p>
 </details>
 
-➡️ [See More FAQs](https://galerie-fi.vercel.app/#faq)
+➡️ [See More FAQs](https://galerie-com.vercel.app/)
 
 ---
 
